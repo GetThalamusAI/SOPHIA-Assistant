@@ -1188,7 +1188,7 @@ sophia config set quiet-hours-override-risk 10  # Only catastrophic operations
 
 ## 🚀 Installation & Quick Start
 
-> **⚠️ Alpha Status Notice:** SOPHIA Assistant is currently in private alpha testing. Public installation packages will be available when Guardian Mode reaches v1.0 (estimated Q2 2026). Join our early testing program to get access now: early-testers@thalamus.ai
+> **⚠️ Alpha Status Notice:** SOPHIA Assistant is currently in private alpha testing. Public installation packages will be available when Guardian Mode reaches v1.0 (estimated Q2 2026). Join our early testing program to get access now: early-testers@getthalamus.ai
 
 ### **System Requirements**
 
@@ -1217,7 +1217,7 @@ If you've been accepted into the early testing program, you'll receive:
 
 **Interested in Testing?**
 
-Email: early-testers@thalamus.ai with:
+Email: early-testers@getthalamus.ai with:
 1. Your technical background and use case
 2. Operating system (macOS version, Windows 11, Ubuntu 22.04+)
 3. Which mode you want to test (Guardian, Power, or both)
@@ -1260,7 +1260,7 @@ sophia start
 
 ```bash
 # Download .deb package
-wget https://github.com/ThalamustAI/SOPHIA/releases/latest/download/sophia-assistant_1.0.0_amd64.deb
+wget https://github.com/ThalamustAI/SOPHIA-Assistant/releases/latest/download/sophia-assistant_1.0.0_amd64.deb
 
 # Install
 sudo apt install ./sophia-assistant_1.0.0_amd64.deb
@@ -1269,7 +1269,7 @@ sudo apt install ./sophia-assistant_1.0.0_amd64.deb
 sophia start
 ```
 
-**Star the repo** to get notified when public beta launches: https://github.com/ThalamustAI/SOPHIA
+**Star the repo** to get notified when public beta launches: https://github.com/ThalamustAI/SOPHIA-Assistant
 
 ### **Initial Configuration Wizard** *(Preview - Coming Soon)*
 
@@ -1540,7 +1540,7 @@ We'd rather have one high-quality bug report than ten vague "it doesn't work" ti
 ### **Join Early Testing**
 
 We're actively recruiting early testers for:
-- **Guardian Mode:** Currently testing (join now: early-testers@thalamus.ai)
+- **Guardian Mode:** Currently testing (join now: early-testers@getthalamus.ai)
 - **Supervised Power Mode:** Testing begins Feb 6 (waitlist available)
 - **Developer Mode:** Q2 2026 alpha (advanced users only)
 
@@ -1556,7 +1556,7 @@ We're actively recruiting early testers for:
 - Patience (this is alpha software; things will break)
 - Engagement (join discussions, share use cases, help other testers)
 
-**Apply:** Email early-testers@thalamus.ai with:
+**Apply:** Email early-testers@getthalamus.ai with:
 - Your background (technical level, use case for SOPHIA)
 - Operating system (macOS, Windows, Linux + version)
 - What mode you want to test (Guardian, Power, or both)
@@ -1644,7 +1644,7 @@ And to the **open source community** that believes knowledge should be free and 
 ## 📞 Contact
 
 - **Website:** https://getthalamus.ai
-- **GitHub:** https://github.com/ThalamusAI/SOPHIA
+- **GitHub:** https://github.com/GetThalamusAI/SOPHIA
 - **Twitter/X:** [@ThalamusAI](https://twitter.com/ThalamusAI)
 - **Email:** opensource@getthalamus.ai
 - **Early Testing:** early-testers@getthalamus.ai
