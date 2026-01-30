@@ -14,6 +14,15 @@
 
 ---
 
+<div align="center">
+  <img src="assets/sophia-mascot.png" alt="SOPHIA Assistant" width="200"/>
+  
+  # 🧠 SOPHIA Assistant
+  ## *Self-Organizing Platform for Human-Inclusive Autonomy*
+</div>
+
+---
+
 ## 🚧 **We're Building This in Public — Follow Along**
 
 **SOPHIA Assistant is in active development.** We're not waiting to perfect everything behind closed doors—we're building production-ready autonomous AI infrastructure **in public**, with the community, because transparency is non-negotiable.
